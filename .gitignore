@@ -212,6 +212,7 @@ __marimo__/
 # csv file
 .csv
 .json
+data/raw_data
 data/*.csv
 data/*.json
 catboost_info/*
