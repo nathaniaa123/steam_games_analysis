@@ -212,3 +212,5 @@ __marimo__/
 # csv file
 .csv
 .json
+data/*.csv
+data/*.json
